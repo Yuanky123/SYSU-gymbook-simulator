@@ -34,3 +34,6 @@
 - 3.不建议一直开着转发网站，不知道安全性怎样
 - 4.为爱发电，如果有空会更新，欢迎其他人优化
 - 5.再次声明，仅供学习，谨慎使用
+
+# 鸣谢Thanks - modified from:
+- https://github.com/cihat/twitter-clone
