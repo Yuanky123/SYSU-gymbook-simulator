@@ -28,6 +28,13 @@
 - https://dashboard.ngrok.com/get-started/setup/windows
 - 下载一个，按照网站的教程，把前端的网址转发即可
 ---
+# 预览效果
+
+<video id="video" control="true" autoplay="true" preload="auto" width = "500">
+      <source id="mp4" src="Yuanky123/SYSU-gymbook-simulator/preview.mp4" type="video/mp4">
+</video>
+
+---
 # 可能的问题
 - 1.如果npm install的时候出错，比较难搞，要查查配下环境
 - 2.转发后的网址需要断掉校园网才能正常访问
