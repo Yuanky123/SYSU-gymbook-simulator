@@ -30,9 +30,7 @@
 ---
 # 预览效果
 
-<video controls autoplay preload="auto" width="500">
-      <source src="preview.mp4" type="video/mp4">
-</video>
+![](Yuanky123/SYSU-gymbook-simulator/preview.gif)
 
 ---
 # 可能的问题
