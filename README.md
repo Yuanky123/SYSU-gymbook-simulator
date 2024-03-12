@@ -30,8 +30,8 @@
 ---
 # 预览效果
 
-<video id="video" controls autoplay preload="auto" width="500">
-      <source id="mp4" src="Yuanky123/SYSU-gymbook-simulator/preview.mp4" type="video/mp4">
+<video controls autoplay preload="auto" width="500">
+      <source src="preview.mp4" type="video/mp4">
 </video>
 
 ---
