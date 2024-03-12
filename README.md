@@ -30,7 +30,7 @@
 ---
 # 预览效果
 
-![image](https://github.com/Yuanky123/SYSU-gymbook-simulator/preview.gif)
+![image](https://github.com/Yuanky123/SYSU-gymbook-simulator/blob/main/preview.gif)
 
 ---
 # 可能的问题
