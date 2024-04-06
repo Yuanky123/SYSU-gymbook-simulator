@@ -26,7 +26,7 @@
 
 # 使用说明
 - 例子：
-- ![]()
+- ![](https://github.com/Yuanky123/SYSU-gymbook-simulator/blob/main/472835aeabb244e41fc7aae634ee2e0a.gif)
 - 使用的时候把前后端以及转发都开启
 - 输入名字，密码，学号，第一次使用需要先点注册，再点击登录
 - 后面再使用直接点登录就好了
