@@ -7,7 +7,7 @@
 
 ## 1.环境配置 （windows）
 - nvm安装，方便控制node环境: https://github.com/nvm-sh/nvm
-- 使用nvm管理node版本,自己查一下安装16.18.1:https://titangene.github.io/article/nvm.html(nvm install v16.18.1)
+- 使用nvm管理node版本,自己查一下安装16.18.1:https://titangene.github.io/article/nvm.html (nvm install v16.18.1)
 - 检查一下node和npm的版本 node -v， npm -v
 - 我的npm version: 9.6.2，但这个应该不影响，node版本一致就行
 - 然后运行 npm install，安装相应的package，只要不影响运行，有一点错误应该没问题，传package太慢了，手动安一下吧。
